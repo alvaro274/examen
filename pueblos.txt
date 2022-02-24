@@ -3,3 +3,4 @@
 -	Encinas de Abajo
 pueblito
 no conflicto
+pueblo offline
